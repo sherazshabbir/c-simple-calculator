@@ -1,0 +1,11 @@
+E:\calculator\simple calculator 3\simple calculator 3\bin\Debug\simple calculator 3.exe.config
+E:\calculator\simple calculator 3\simple calculator 3\bin\Debug\simple calculator 3.exe
+E:\calculator\simple calculator 3\simple calculator 3\bin\Debug\simple calculator 3.pdb
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple calculator 3.csproj.AssemblyReference.cache
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple calculator 3.csproj.SuggestedBindingRedirects.cache
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple_calculator_3.Form1.resources
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple_calculator_3.Properties.Resources.resources
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple calculator 3.csproj.GenerateResource.cache
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple calculator 3.csproj.CoreCompileInputs.cache
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple calculator 3.exe
+E:\calculator\simple calculator 3\simple calculator 3\obj\Debug\simple calculator 3.pdb
